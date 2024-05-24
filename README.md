@@ -4,7 +4,7 @@
 
 ## Description
 
-- In this repositiory, I followed a prompt: You friend Isa is a budding fashion blogger, and she's asked you to build her a new website, just in time for New York Fashion Week!
+- In this repositiory, I followed a prompt: The Aguillar Family is hosting their annual wine festival and they have asked you to build a web page for the event schedule!
 - Using my new HTML knowledge, in tabular organization, I created the underlying structure of an event schedule.
 
 ## Table of Contents
